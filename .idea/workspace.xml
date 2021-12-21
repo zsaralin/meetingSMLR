@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6512e05-d6ad-4d01-b26d-10bfdf0bb90a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/server" beforeDir="false" afterPath="$PROJECT_DIR$/server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/dist/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/dist/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/dist/js/controllers/todos/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/dist/js/controllers/todos/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/dist/js/models/todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/dist/js/models/todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/dist/js/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/dist/js/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/controllers/todos/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/controllers/pres/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/models/todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/models/pres.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/routes/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/routes/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/types/todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/types/pres.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1sqSibpUOseUm76VEVcfUclULjo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ts.external.directory.path" value="C:\Users\Saralin\IdeaProjects\meetingSMLRWorks\client\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo\Meeting" />
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo\client\src\components" />
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo\client\src\components\cssFiles" />
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo\Meeting" />
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo\Extra" />
+      <recent name="C:\Users\Saralin\IdeaProjects\fullstack-typescript-mern-todo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6512e05-d6ad-4d01-b26d-10bfdf0bb90a" name="Default Changelist" comment="" />
+      <created>1621598754842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621598754842</updated>
+      <workItem from="1621598756962" duration="1407000" />
+      <workItem from="1621607026044" duration="20258000" />
+      <workItem from="1621683633849" duration="41764000" />
+      <workItem from="1622051399235" duration="1845000" />
+      <workItem from="1622053277174" duration="281120000" />
+      <workItem from="1623678696045" duration="70459000" />
+      <workItem from="1623944852332" duration="150228000" />
+      <workItem from="1624894438745" duration="38879000" />
+      <workItem from="1625059717871" duration="1220000" />
+      <workItem from="1625061025704" duration="7458000" />
+      <workItem from="1625485113614" duration="33711000" />
+      <workItem from="1625573107131" duration="18906000" />
+      <workItem from="1625599275944" duration="88531000" />
+      <workItem from="1626181402999" duration="5431000" />
+      <workItem from="1626187497016" duration="49217000" />
+      <workItem from="1626698991192" duration="3334000" />
+      <workItem from="1626713468369" duration="27000" />
+      <workItem from="1626719698573" duration="793000" />
+      <workItem from="1626798681959" duration="19124000" />
+      <workItem from="1627042019515" duration="33562000" />
+      <workItem from="1627486563281" duration="146812000" />
+      <workItem from="1628777469398" duration="2747000" />
+      <workItem from="1628792984152" duration="19578000" />
+      <workItem from="1629127369805" duration="15839000" />
+      <workItem from="1629152066721" duration="1303000" />
+      <workItem from="1629153542402" duration="21391000" />
+      <workItem from="1629235717566" duration="3527000" />
+      <workItem from="1629241654535" duration="12802000" />
+      <workItem from="1629300406617" duration="18356000" />
+      <workItem from="1629391415408" duration="3857000" />
+      <workItem from="1629403135957" duration="118000" />
+      <workItem from="1629403921855" duration="379000" />
+      <workItem from="1629405340828" duration="15255000" />
+      <workItem from="1629468336044" duration="8617000" />
+      <workItem from="1629477744679" duration="3085000" />
+      <workItem from="1629495698591" duration="673000" />
+      <workItem from="1632498046402" duration="184000" />
+      <workItem from="1639896560733" duration="659000" />
+      <workItem from="1639937641804" duration="3856000" />
+      <workItem from="1639949541703" duration="1842000" />
+      <workItem from="1640029304998" duration="156000" />
+      <workItem from="1640029480399" duration="95000" />
+      <workItem from="1640029663488" duration="1639000" />
+      <workItem from="1640045466011" duration="298000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,64 @@
+{
+    "name": "jotali",
+    "version": "0.1.0",
+    "private": true,
+    "engines": {
+        "npm": "6.14.12",
+        "node": "14.16.1"
+    },
+    "dependencies": {
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.3.2",
+        "@testing-library/user-event": "^7.1.2",
+        "@types/jest": "^24.0.0",
+        "@types/node": "^12.0.0",
+        "@types/react": "^16.9.0",
+        "@types/react-beautiful-dnd": "^13.0.0",
+        "@types/react-dom": "^16.9.0",
+        "@types/react-select": "^4.0.17",
+        "@types/ws": "^7.4.7",
+        "aws": "0.0.3-2",
+        "axios": "^0.21.1",
+        "body-parser": "^1.19.0",
+        "bootstrap": "^5.0.1",
+        "cli": "^1.0.1",
+        "joi": "^17.4.0",
+        "react": "^16.13.1",
+        "react-beautiful-dnd": "^13.1.0",
+        "react-bootstrap": "^1.6.0",
+        "react-dom": "^16.13.1",
+        "react-full-screen": "^1.1.0",
+        "react-icons": "^4.2.0",
+        "react-scripts": "3.4.1",
+        "react-select": "^4.3.1",
+        "reactstrap": "^8.9.0",
+        "semantic-ui-css": "^2.4.1",
+        "semantic-ui-react": "^2.0.3",
+        "typescript": "~3.7.2",
+        "use-sound": "^4.0.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "file-loader": "^6.2.0"
+    }
+}
